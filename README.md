@@ -140,13 +140,17 @@ Response: Side Navigation view slides out of view.
 #### 7.2.1. click on a pqs item.
 Response: pqs item view pops up
 #### 7.2.2. click [tap to sign]
-Response: signature box pops up
+Response: signer drop down box appears
+##### 7.2.2.1. select a signer
+Response: Signature Pad appears, signer name that was selected is above the box
 #### 7.2.3. sign in the box
 Response: signature appears in box
 #### 7.2.4. click [close]
 Response: signature box closes
 #### 7.2.5. click [tap to sign]
-Response: signature box opens up and is empty
+Response: signer drop down box appears with no signer selected.
+##### 7.2.5.1. select a signer
+Response: Signature Pad appears, signer name that was selected is above the box
 #### 7.2.6. sign in the signature box --> click [clear]
 Response: signature box clears
 #### 7.2.7. sign in the signature box --> click [save]
