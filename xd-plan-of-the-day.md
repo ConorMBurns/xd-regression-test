@@ -38,3 +38,5 @@ Response: Event Information box disappears, event on calendar turns back to orig
 Response: event moves time slots with your curser. 
 #### 4.4.4. click the little black double bar icon located at the center bottom of an event and drag up and down.
 Response: event length will change with the dragging of your curser.
+
+## [BACK TO MAIN](https://github.com/MilitaryMobile/xd-regression-test/blob/master/README.md)
