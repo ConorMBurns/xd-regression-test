@@ -65,3 +65,5 @@ Response: "Re-inspection date selection" field appears.
 Response: "Re-inspection date selection" field is hidden and the selected button turns blue.
 #### 9.3.8. click submit
 Response: returns to the main zone inspection view and has added your newly created zone inspection.
+
+## [BACK TO MAIN](https://github.com/MilitaryMobile/xd-regression-test/blob/master/README.md)
