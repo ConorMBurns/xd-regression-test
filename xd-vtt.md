@@ -109,3 +109,5 @@ Response: returns you to the add view with all input fields empty
 Response: all input fields are filled out
 ##### 17.4.3.5. click [Save]
 Response: returns you to the main groups field with a new group added.
+
+## [BACK TO MAIN](https://github.com/MilitaryMobile/xd-regression-test/blob/master/README.md)
