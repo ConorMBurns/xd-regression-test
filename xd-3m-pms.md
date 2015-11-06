@@ -11,3 +11,5 @@ Response: Side Navigation view slides out of view.
 Response: item opens up in new window. 
 #### 10.2.2. click the crossdeck menu button (top center of top menu bar)
 Response: takes you back to crossdeck home screen.
+
+## [BACK TO MAIN](https://github.com/MilitaryMobile/xd-regression-test/blob/master/README.md)
