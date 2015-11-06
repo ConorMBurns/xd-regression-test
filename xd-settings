@@ -15,3 +15,5 @@ Response: crossdeck tiled main view appears.
 Response: only the settings and logout button remain.
 #### 15.2.4. return to settings --> toggle all apps back on --> return to crossdeck main menu
 Response: all applications return to view.
+
+## [BACK TO MAIN](https://github.com/MilitaryMobile/xd-regression-test/blob/master/README.md)
