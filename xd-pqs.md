@@ -25,3 +25,5 @@ Response: signature becomes permanent with time stamp and name of signer, top ba
 Response: takes you back to main pqs view, completed percentage is now the new completed percentage. 
 #### 7.2.9. click the crossdeck menu button (top center of top menu bar)
 Response: takes you back to crossdeck home screen.
+
+## [BACK TO MAIN](https://github.com/MilitaryMobile/xd-regression-test/blob/master/README.md)
