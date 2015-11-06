@@ -23,7 +23,7 @@
 
 ## 9. [ZONE INSPECTION](https://github.com/MilitaryMobile/xd-regression-test/blob/master/xd-zone-inspection.md)
 
-## 10. [3M - PMS](https://github.com/MilitaryMobile/xd-regression-test/blob/master/xd-3m-pqs.md)
+## 10. [3M - PMS](https://github.com/MilitaryMobile/xd-regression-test/blob/master/xd-3m-pms.md)
 
 ## 11. [REPAIRS](https://github.com/MilitaryMobile/xd-regression-test/blob/master/xd-repairs.md)
 
